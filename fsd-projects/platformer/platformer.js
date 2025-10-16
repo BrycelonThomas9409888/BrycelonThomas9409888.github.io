@@ -44,18 +44,17 @@ $(function () {
 
 
     // TODO 3 - Create Collectables
-
-
-
+createCollectable("steve",300,300)
+createCollectable("max",1300,400)
+createCollectable("grace",600,0)
+createCollectable("kennedi",900,500)
     
     // TODO 4 - Create Cannons
 
 
     
     
-    //////////////////////////////////
-    // ONLY CHANGE ABOVE THIS POINT //
-    //////////////////////////////////
+
   }
 
   registerSetup(setup);
