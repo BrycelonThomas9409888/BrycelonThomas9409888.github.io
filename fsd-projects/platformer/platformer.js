@@ -50,10 +50,9 @@ createCollectable("grace",600,0)
 createCollectable("kennedi",900,500)
     
     // TODO 4 - Create Cannons
-
-
-    
-    
+   createCannon("right", 775, 0)
+   createCannon("right", 400, 1250)
+  createCannon("right", 150, 500)
 
   }
 
